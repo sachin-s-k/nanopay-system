@@ -1,1 +1,1 @@
-# nanopay-system - Fast micro-payment wallet system
+# nanopay-system - ## Pay Small. Move Fast.
