@@ -1,1 +1,2 @@
-# nanopay-system - ## Pay Small. Move Fast.
+# nanopay-system
+## Pay Small. Move Fast.
